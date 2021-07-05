@@ -3,3 +3,4 @@ Abigail Justiniano
 Veronica Garcia Ruiz
 Marcos Rodriguez
 Lucia Santibañez
+Lucas Otin
